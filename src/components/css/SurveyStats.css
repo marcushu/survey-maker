@@ -1,0 +1,22 @@
+#adminBtn {
+    text-align: left;
+    background-color:rgba(255, 219, 100, 0);
+    border: none;
+    color: rgba(218, 202, 202, 0.924);
+    font-size: 16px;
+    margin-right: 10px;
+}
+
+#surveyName {
+    display: block;
+    color:  rgb(1, 85, 134);
+    background-color: rgb(247 247 247);
+    border-radius: 8px;
+    font-size: 34px;
+    margin: 15px;
+}
+
+#results {
+    padding-left: 15px;
+    padding-right: 15px;
+}

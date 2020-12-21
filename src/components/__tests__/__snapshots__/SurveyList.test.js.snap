@@ -1,0 +1,110 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SurveyList renders 1`] = `
+<DocumentFragment>
+  <table
+    style="width: 100%;"
+  >
+    <thead>
+      <tr>
+        <th>
+          Survey (view/edit)
+        </th>
+        <th
+          style="width: 75px;"
+        >
+          Respondents
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>
+          <button
+            class="surveyBtn"
+          >
+            Gallery Show
+          </button>
+        </td>
+        <td
+          class="respondents"
+        >
+          4
+        </td>
+        <td
+          style="width: 135px;"
+        >
+          <button
+            class="graphicButtons"
+            title="Add survey participants"
+          >
+            <img
+              alt="new participants"
+              src="people-fill.svg"
+            />
+          </button>
+           
+          <button
+            class="graphicButtons"
+            title="Create email URL's"
+          >
+            <img
+              alt="email urls"
+              src="envelope-fill.svg"
+            />
+          </button>
+           
+          <button
+            class="graphicButtons"
+          >
+            X
+          </button>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <button
+            class="surveyBtn"
+          >
+            Valentines Receptions
+          </button>
+        </td>
+        <td
+          class="respondents"
+        >
+          0
+        </td>
+        <td
+          style="width: 135px;"
+        >
+          <button
+            class="graphicButtons"
+            title="Add survey participants"
+          >
+            <img
+              alt="new participants"
+              src="people-fill.svg"
+            />
+          </button>
+           
+          <button
+            class="graphicButtons"
+            title="Create email URL's"
+          >
+            <img
+              alt="email urls"
+              src="envelope-fill.svg"
+            />
+          </button>
+           
+          <button
+            class="graphicButtons"
+          >
+            X
+          </button>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</DocumentFragment>
+`;

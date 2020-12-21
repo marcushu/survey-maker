@@ -1,0 +1,84 @@
+#centerPanel {
+    text-align: center;
+}
+
+#bottomButtons {
+    margin: 15px;
+    padding-bottom: 25px;
+    background-color: rgb(216, 216, 216);
+}
+
+button.bigOrangeBrdr {
+    padding: 8px;
+    border: none;
+    margin: 4px;
+    font-size: 18px;
+    color: white;
+    background-color: rgb(1, 85, 134);
+    width: 130px;
+}
+
+button.save {
+    padding: 8px;
+    border: solid;
+    border-width: 4px;
+    border-color: rgb(1, 85, 134);
+    margin: 4px;
+    font-size: 18px;
+    color: rgb(1, 85, 134);;
+    background-color: transparent;
+    width: 130px;
+}
+
+button.loginAdmin {
+    text-align: left;
+    background-color:rgba(255, 219, 100, 0);
+    border: none;
+    color: rgba(166, 209, 250, 0.924);
+    font-size: 16px;
+    margin-right: 10px;
+}
+
+button.delete {
+    color: white;
+    background-color:  rgb(1, 85, 134);
+    border: none;  
+    font-size: 20px;
+    margin-right: 10px;
+    padding-top: 6px;
+    padding-bottom: 7px;
+    font-weight: bold;
+}
+
+button.addTakerBtn{
+    background-color: transparent;
+    color: rgb(1, 85, 134);
+    border: solid;
+    border-width: 1px;
+    border-radius: 2px;
+}
+
+
+.textInput {
+    color: rgb(73, 73, 73);
+    padding: 8px;
+    margin: 10px;
+    background-color: white;
+    border: solid;
+    border-color: rgb(73, 73, 73);
+    border-width: 1px;
+}
+
+#surveyTitle {
+    display: block;
+    color:  rgb(1, 85, 134);
+    background-color: rgb(247 247 247);
+    border-radius: 8px;
+    font-size: 34px;
+    margin: 15px;
+}
+
+#createSurvey {
+    text-align: center;
+    margin: 30px;
+}

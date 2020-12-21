@@ -1,0 +1,82 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TextResults renders 1`] = `
+<DocumentFragment>
+  <div />
+  <div>
+    <div
+      class="row"
+      style="margin: 0px; padding: 5px;"
+    >
+      <div
+        class="col"
+      >
+        <br />
+        <h5
+          style="background-color: rgb(218, 218, 218); padding: 5px;"
+        >
+          how many in your party
+        </h5>
+      </div>
+    </div>
+    <div
+      class="row"
+      style="margin: 0px; padding: 5px;"
+    >
+      <div
+        class="col"
+      >
+        <span
+          style="font-style: italic;"
+        >
+          "2"
+        </span>
+      </div>
+    </div>
+    <div
+      class="row"
+      style="margin: 0px; padding: 5px;"
+    >
+      <div
+        class="col"
+      >
+        <span
+          style="font-style: italic;"
+        >
+          "12 mostly family"
+        </span>
+      </div>
+    </div>
+    <div
+      class="row"
+      style="margin: 0px; padding: 5px;"
+    >
+      <div
+        class="col"
+      >
+        <span
+          style="font-style: italic;"
+        >
+          "3, myselfe, my wife and our dog"
+        </span>
+      </div>
+    </div>
+    <div
+      class="row"
+      style="margin: 0px; padding: 5px;"
+    >
+      <div
+        class="col"
+      >
+        <span
+          style="font-style: italic;"
+        >
+          "asdfasfd"
+        </span>
+      </div>
+    </div>
+  </div>
+  <div />
+  <div />
+</DocumentFragment>
+`;

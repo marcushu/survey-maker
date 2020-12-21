@@ -1,0 +1,27 @@
+#rowMain {
+    background-color: rgb(1, 85, 134);
+}
+
+#headMain {
+    display: flex;
+    justify-content: space-between;
+}
+
+#headTitle {
+    color: white;
+    font-size: 36px;
+    padding: 5px;
+}
+
+button.goto {
+    color:rgb(1, 85, 134);    
+    background-color:  white;
+    border-style: none;   
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 17px;
+}
+
+button:hover {
+    color: rgb(81, 174, 236);
+}

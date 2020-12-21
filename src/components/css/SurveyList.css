@@ -1,0 +1,29 @@
+table {
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+} 
+th {
+    color: rgb(1, 85, 134);
+    padding: 15px;
+}
+
+
+td {
+    margin: 5px;
+    padding: 15px;
+    border-bottom: solid;
+    border-color: rgb(1, 85, 134);
+    border-width: 1px;
+    background-color: rgb(215, 221, 226);
+}
+
+td.respondents {
+    text-align: center;
+    font-weight: bold;
+}
+
+.graphicButtons {
+    border: none;
+    background-color: rgb(233 233 233);
+}

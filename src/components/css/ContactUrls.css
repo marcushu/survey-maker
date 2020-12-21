@@ -1,0 +1,11 @@
+#mainDiv {
+    height: 100%;
+    width: 100%;
+}
+
+#surveyTitle {
+    color:  rgb(1, 85, 134);
+    text-align: center;
+    font-size: 30px;
+    padding: 25px;
+}

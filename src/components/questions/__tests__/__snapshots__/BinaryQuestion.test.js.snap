@@ -1,0 +1,47 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`BinaryQuestion renders 1`] = `
+<DocumentFragment>
+  <div
+    class="listItem d-flex justify-content-between"
+  >
+    <div
+      class="question"
+    >
+      mock question?
+    </div>
+    <div>
+      <div
+        class="form-check form-check-inline"
+      >
+        <input
+          class="form-check-input"
+          type="radio"
+          value="yes"
+        />
+        <label
+          class="form-check-label"
+          title=""
+        >
+          yes
+        </label>
+      </div>
+      <div
+        class="form-check form-check-inline"
+      >
+        <input
+          class="form-check-input"
+          type="radio"
+          value="no"
+        />
+        <label
+          class="form-check-label"
+          title=""
+        >
+          no
+        </label>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

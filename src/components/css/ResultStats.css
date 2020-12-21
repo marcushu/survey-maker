@@ -1,0 +1,23 @@
+.percentages {
+    background-color: rgba(243, 66, 66, 0.472);
+    color: white;
+    padding: 3px;
+    border-radius: 2px;
+}
+.percentagesGreen {
+    background-color: rgb(44, 144, 82);
+    color: white;
+    padding: 3px;
+    border-radius: 2px;
+}
+
+.question {
+    font-weight: bold;
+}
+
+.dataRow {
+    padding: 10px;
+    border-bottom: 1px;
+    border-bottom-style: solid;
+    border-bottom-color:  rgb(1, 85, 134);
+}

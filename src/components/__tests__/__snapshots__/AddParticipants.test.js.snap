@@ -1,0 +1,67 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AddParcipants renders 1`] = `
+<DocumentFragment>
+  <div
+    class="row"
+  >
+    <div
+      class="d-flex justify-content-center col"
+    >
+      <div
+        id="surveyTitle"
+      >
+        Mock Survey
+      </div>
+    </div>
+  </div>
+  <div
+    class="row"
+  >
+    <div
+      class="d-flex justify-content-center col"
+    >
+      <div
+        id="instructions"
+      >
+        Add a 
+        <span
+          style="font-weight: bold;"
+        >
+          comma separated
+        </span>
+         list of new survey participants
+      </div>
+    </div>
+  </div>
+  <div
+    class="row"
+  >
+    <div
+      class="d-flex justify-content-center col"
+    >
+      <textarea
+        rows="10"
+      />
+    </div>
+  </div>
+  <div
+    class="row"
+  >
+    <div
+      class="text-center col"
+    >
+      <button
+        id="addButton"
+      >
+        &lt;&lt;
+      </button>
+      <button
+        id="addButton"
+      >
+        Add Participants
+      </button>
+    </div>
+  </div>
+</DocumentFragment>
+`;

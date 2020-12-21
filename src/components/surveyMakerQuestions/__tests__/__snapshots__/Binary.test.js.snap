@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`binary question maker renders 1`] = `
+<DocumentFragment>
+  <span>
+    <input
+      type="text"
+      value=""
+    />
+     
+    <input
+      class="yesNoTxt"
+      type="text"
+      value="Yes"
+    />
+     
+    <input
+      class="yesNoTxt"
+      type="text"
+      value="No"
+    />
+     
+    <button
+      class="add"
+    >
+      +
+    </button>
+  </span>
+</DocumentFragment>
+`;

@@ -1,0 +1,19 @@
+#darkWide {
+    width: 1000px;
+}
+
+button.bigOrange {
+    background-color: rgb(1, 85, 134);
+    padding: 8px;
+    border: none;
+    font-size: 18px;
+    color: white;
+    width: 130px;
+}
+
+#surveyName {
+    text-align: center;
+    font-size: 28px;
+    color: rgb(1, 85, 134);
+    padding: 15px;
+}

@@ -1,0 +1,50 @@
+#logoutBtn {
+    text-align: left;
+    background-color:rgba(255, 219, 100, 0);
+    border: none;
+    color: rgba(218, 202, 202, 0.924);
+    font-size: 16px;
+    padding: 10px;
+    margin-right: 10px;
+}
+
+button.logout {
+    background-color: transparent;
+    border: none;
+    text-decoration: underline;
+}
+
+#newSurveyBtn {
+    background-color: rgb(1, 85, 134);
+    padding: 10px;
+    border: none;
+    font-size: 18px;
+    color: white;
+    display: block;
+    width: 100%;
+}
+
+#addTakerBtn{
+    color:rgb(1, 85, 134);
+    border: none;
+    border-radius: 2px;
+}
+
+.rows {
+    position: relative;
+    align-items: center;
+    height: 85%;
+} 
+
+.cols {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.surveyBtn {
+    color:  rgb(1, 85, 134);
+    background-color: rgb(247 247 247);
+    border-radius: 4px;
+    border: none;
+}

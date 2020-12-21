@@ -1,0 +1,18 @@
+button.add{
+    background-color: rgb(1, 85, 134);
+    color: white;
+    border: none;
+    padding: 10px;
+}
+
+input.inputText {
+    width: 350px;
+    padding: 10px;
+    margin-top: 25px;
+    margin-bottom: 20px;
+    border-style: none;
+}
+
+input.yesNoTxt {
+    width: 70px;
+}

@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`multiple choice renders 1`] = `
+<DocumentFragment>
+  <span>
+    <input
+      class="inputText"
+      placeholder="Your question here..."
+      type="text"
+      value=""
+    />
+     
+    <input
+      class="inputText"
+      placeholder="ok, good, great..."
+      style="width: 150px;"
+      type="text"
+      value=""
+    />
+     
+    <button
+      class="add"
+    >
+      +
+    </button>
+  </span>
+</DocumentFragment>
+`;

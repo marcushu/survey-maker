@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`header component Head renders 1`] = `
+<DocumentFragment>
+  <div
+    class="row"
+    id="rowMain"
+  >
+    <div
+      class="col"
+      id="headMain"
+    >
+      <div
+        id="headTitle"
+      >
+        Survey Maker
+      </div>
+      <div>
+        <button
+          class="goto"
+        >
+          Mock Button Label
+        </button>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

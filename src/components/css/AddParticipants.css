@@ -1,0 +1,34 @@
+#instructions {
+    color: rgb(56, 56, 56);
+    padding: 15px;
+    font-size: 12px;
+    font-style: italic;
+}
+
+#surveyTitle {
+    color: rgb(1, 85, 134);
+    font-size: 20px;
+}
+
+#backButton {
+    color:rgb(1, 85, 134);    
+    background-color:  white;
+    border-style: solid;
+    border-color: rgb(1, 85, 134);   
+    font-size: 18px;
+    font-weight: bold;
+}
+
+#addButton {
+    background-color: rgb(1, 85, 134);
+    border: none;
+    font-size: 20px;
+    color: white;
+    padding: 8px;
+    margin: 12px;
+}
+
+textarea {
+    width: 300px;
+}
+
